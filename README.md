@@ -1,1 +1,2 @@
-# .github
+# USGS VizLab
+Water data visualizations
